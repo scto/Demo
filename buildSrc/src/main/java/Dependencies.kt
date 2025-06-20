@@ -51,7 +51,7 @@ object Dependencies {
     object ThirdParty {
 
         object Version {
-            const val androidMaterial = "1.6.0"
+            const val androidMaterial = "1.12.0"
             const val coilCompose = "1.3.2"
             const val coroutines = "1.6.0"
             const val retrofit = "2.9.0"
