@@ -19,7 +19,7 @@ object Dependencies {
     object Android {
 
         object Version {
-            const val coreKtx = "1.7.0"
+            const val coreKtx = "1.16.0"
             const val appCompat = "1.4.1"
             const val activityCompose = "1.4.0"
             const val compose = "1.1.1"
