@@ -79,7 +79,7 @@ object Dependencies {
         object Version {
             const val junit = "4.13.2"
             const val roboeletric = "4.6.1"
-            const val mockk = "1.12.4"
+            const val mockk = "1.14.2"
             const val okHttp3MockWebServer = "4.9.2"
         }
 
