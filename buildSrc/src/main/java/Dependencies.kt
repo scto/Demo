@@ -9,7 +9,7 @@ object Dependencies {
 
         object Version {
             const val gradle = "7.0.4"
-            const val kotlin = "1.6.10"
+            const val kotlin = "2.1.21"
         }
 
         const val gradle = "com.android.tools.build:gradle:${Version.gradle}"
