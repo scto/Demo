@@ -52,7 +52,7 @@ object Dependencies {
 
         object Version {
             const val androidMaterial = "1.6.0"
-            const val coilCompose = "1.3.2"
+            const val coilCompose = "2.7.0"
             const val coroutines = "1.6.0"
             const val retrofit = "2.9.0"
             const val koin = "3.1.5"
