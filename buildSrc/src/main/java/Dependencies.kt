@@ -23,7 +23,7 @@ object Dependencies {
             const val appCompat = "1.4.1"
             const val activityCompose = "1.4.0"
             const val compose = "1.1.1"
-            const val lifecycle = "2.5.0-rc01"
+            const val lifecycle = "2.9.1"
             const val lifecycleExtensions = "2.2.0"
         }
 
