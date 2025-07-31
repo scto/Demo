@@ -97,7 +97,7 @@ object Dependencies {
 
         object Version {
             const val junit = "1.1.3"
-            const val espressoCore = "3.4.0"
+            const val espressoCore = "3.7.0"
         }
 
         const val junit = "androidx.test.ext:junit:${Version.junit}"
