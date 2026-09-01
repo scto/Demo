@@ -8,7 +8,7 @@ object Dependencies {
     object ClassPath {
 
         object Version {
-            const val gradle = "7.0.4"
+            const val gradle = "9.4.0"
             const val kotlin = "1.6.10"
         }
 
